@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leticisz
 - 👀 I’m interested in projetos sobre programação Web
-- 🌱 I’m currently learning Modelagem de Banco de Dados
+- 🌱 I’m currently learning Modelagem de Sistemas
 - 📫 How to reach me IG @_leticisz
 
 <div>
